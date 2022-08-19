@@ -1,0 +1,1744 @@
+ID: NM_020236.4
+Name: NM_020236
+Description: Homo sapiens mitochondrial ribosomal protein L1 (MRPL1), mRNA; nuclear gene for mitochondrial product
+Number of features: 16
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=17-APR-2022
+/accessions=['NM_020236']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Driver Gene and Novel Mutations in Asbestos-Exposed Lung Adenocarcinoma and Malignant Mesothelioma Detected by Exome Sequencing', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='The mRNA-bound proteome and its global occupancy profile on protein-coding transcripts', ...), Reference(title='Insights into RNA biology from an atlas of mammalian mRNA-binding proteins', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC014356.1 and BU675164.1.
+On Nov 23, 2018 this sequence version replaced NM_020236.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein that belongs to
+the L1 ribosomal protein family. [provided by RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163658.333808.1, SRR5189658.80789.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000315567.13/ ENSP00000315017.8'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('GCAATCCGGAGTGCCCAACATGGCGGCGGCCGTAAGGTGCATGGGTAGAGCCTT...GAA')ID: NM_001300848.2
+Name: NM_001300848
+Description: Homo sapiens mitochondrial ribosomal protein L2 (MRPL2), transcript variant 2, mRNA; nuclear gene for mitochondrial product
+Number of features: 13
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=17-APR-2022
+/accessions=['NM_001300848', 'XM_005249162']
+/sequence_version=2
+/keywords=['RefSeq']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='The mRNA-bound proteome and its global occupancy profile on protein-coding transcripts', ...), Reference(title='Insights into RNA biology from an atlas of mammalian mRNA-binding proteins', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='The DNA sequence and analysis of human chromosome 6', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Mammalian mitochondrial ribosomal proteins (2). Amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from HY043564.1, BC013685.1,
+BM970997.1 and AA627551.1.
+On May 31, 2019 this sequence version replaced NM_001300848.1.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein that belongs to
+the EcoL2 ribosomal protein family. A pseudogene corresponding to
+this gene is found on chromosome 12q. Alternative splicing results
+in multiple transcript variants encoding distinct isoforms.
+[provided by RefSeq, Jul 2014].
+Transcript Variant: This variant (2) lacks an exon in the 3' coding
+region, which results in a frameshift and an early stop codon,
+compared to variant 1. The encoded isoform (2) has a shorter and
+distinct C-terminus, compared to isoform 1.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BQ431890.1, SRR14038197.1636841.1 [ECO:0000332]'), ('RNAseq introns', 'mixed sample support SAMEA1965299, SAMEA1966682 [ECO:0006172]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta')]))])
+Seq('AACGTCATCTAGGAGCACCGAGCAGCTTGGCTAAAAGTAAGGGTGTCGTGCTGA...GTC')ID: NM_007208.4
+Name: NM_007208
+Description: Homo sapiens mitochondrial ribosomal protein L3 (MRPL3), mRNA; nuclear gene for mitochondrial product
+Number of features: 18
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=03-JUN-2022
+/accessions=['NM_007208']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='The mRNA-bound proteome and its global occupancy profile on protein-coding transcripts', ...), Reference(title='Insights into RNA biology from an atlas of mammalian mRNA-binding proteins', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='A functional peptidyl-tRNA hydrolase, ICT1, has been recruited into the human mitochondrial ribosome', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Cloning and characterization of a human ribosomal protein gene with enhanced expression in fetal and neoplastic cells', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from DC398662.1, BC003375.2 and
+X06323.1.
+This sequence is a reference standard in the RefSeqGene project.
+On Nov 23, 2018 this sequence version replaced NM_007208.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein that belongs to
+the L3P ribosomal protein family. A pseudogene corresponding to
+this gene is found on chromosome 13q. [provided by RefSeq, Jul
+2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'X06323.1, BC003375.2 [ECO:0000332]'), ('RNAseq introns', 'mixed sample support SAMEA1965299, SAMEA1966682 [ECO:0006172]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000264995.8/ ENSP00000264995.2'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GCAGAGAGCATCGGCCGGCGACCGTTCCGGCGGCCATTGCGAAAACTTCCCCAC...ATC')ID: NM_015956.3
+Name: NM_015956
+Description: Homo sapiens mitochondrial ribosomal protein L4 (MRPL4), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 16
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_015956']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Interactome Mapping Provides a Network of Neurodegenerative Disease Proteins and Uncovers Widespread Protein Aggregation in Affected Brains', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='The association between polymorphisms in the MRPL4 and TNF-alpha genes and susceptibility to allergic rhinitis', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Association between genetic variants in VEGF, ERCC3 and occupational benzene haematotoxicity', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BG325905.1, BC009858.2 and
+AC011511.12.
+On May 17, 2019 this sequence version replaced NM_015956.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Sequence
+analysis identified alternatively spliced variants that encode
+different protein isoforms. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) is the predominant transcript
+and it encodes the same isoform (a) as variant 2.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR3476690.633180.1, SRR1163655.419345.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000253099.11/ ENSP00000253099.5'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('AGTGGCCTTGACCTCCCGCGGCGTGGGAGGCTGCGCGGCGATGCTGCAGTTCGT...AAA')ID: NM_145255.4
+Name: NM_145255
+Description: Homo sapiens mitochondrial ribosomal protein L10 (MRPL10), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 15
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=01-JUN-2022
+/accessions=['NM_145255']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Widespread macromolecular interaction perturbations in human genetic disorders', ...), Reference(title='The mRNA-bound proteome and its global occupancy profile on protein-coding transcripts', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Mammalian mitochondrial ribosomal proteins. N-terminal amino acid sequencing, characterization, and identification of corresponding gene sequences', ...), Reference(title='RNA binding proteins of the large subunit of bovine mitochondrial ribosomes', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from DA137043.1, BC039852.1 and
+AI221522.1.
+On Nov 22, 2018 this sequence version replaced NM_145255.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Sequence
+analysis identified three transcript variants that encode two
+different isoforms. A pseudogene corresponding to this gene is
+found on chromosome 5q. [provided by RefSeq, Nov 2010].
+Transcript Variant: This variant (1) is the predominant transcript.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BC039852.1, DT220477.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000351111.7/ ENSP00000324100.4'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('ACTCGGCTTCCGTCCATTCTTCCGGTGGAGATGGCTGCGGCCGTGGCGGGGATG...CTA')ID: NM_016050.5
+Name: NM_016050
+Description: Homo sapiens mitochondrial ribosomal protein L11 (MRPL11), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 13
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=03-JUN-2022
+/accessions=['NM_016050']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Extensive disruption of protein interactions by genetic variants across the allele frequency spectrum in human populations', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Pooled-matrix protein interaction screens using Barcode Fusion Genetics', ...), Reference(title='Global landscape of HIV-human protein complexes', ...), Reference(title='Purification of human mitochondrial ribosomal L7/L12 stalk proteins and reconstitution of functional hybrid ribosomes in Escherichia coli', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BU597133.1, AK290084.1,
+AL519939.3 and BU678208.1.
+On Nov 23, 2018 this sequence version replaced NM_016050.4.
+Summary: This nuclear gene encodes a 39S subunit component of the
+mitochondial ribosome. Alternative splicing results in multiple
+transcript variants. Pseudogenes for this gene are found on
+chromosomes 5 and 12. [provided by RefSeq, May 2014].
+Transcript Variant: This variant (1) encodes the longest isoform
+(a).
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AK290084.1, SRR14038196.170939.1 [ECO:0000332]'), ('RNAseq introns', 'mixed sample support SAMEA1965299, SAMEA1966682 [ECO:0006172]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000310999.11/ ENSP00000308897.7'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('GTGAGGACCCTTGACCTCTGGCCCAAGATGGTGGCGCCCAGAGCTTCGCTCTTG...CCA')ID: NM_002949.4
+Name: NM_002949
+Description: Homo sapiens mitochondrial ribosomal protein L12 (MRPL12), mRNA; nuclear gene for mitochondrial product
+Number of features: 12
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_002949']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Transcription of MRPL12 regulated by Nrf2 contributes to the mitochondrial dysfunction in diabetic kidney disease', ...), Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Architecture of the human interactome defines protein communities and disease networks', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Mitochondrial Ribosomal Protein L12 Is Required for POLRMT Stability and Exists as Two Forms Generated by Alternative Proteolysis during Import', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Identification of mammalian mitochondrial ribosomal proteins (MRPs) by N-terminal sequencing of purified bovine MRPs and comparison to data bank sequences: the large subribosomal particle', ...), Reference(title='Expression and human chromosomal localization to 17q25 of the growth-regulated gene encoding the mitochondrial ribosomal protein MRPL12', ...), Reference(title='A delayed-early response nuclear gene encoding MRPL12, the mitochondrial homologue to the bacterial translational regulator L7/L12 protein', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AC139530.3, DA648796.1,
+BC002344.2 and AF105278.1.
+On Nov 22, 2018 this sequence version replaced NM_002949.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein which forms
+homodimers. In prokaryotic ribosomes, two L7/L12 dimers and one L10
+protein form the L8 protein complex. [provided by RefSeq, Jul
+2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163658.348680.1, SRR1803613.225094.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000333676.8/ ENSP00000333837.3'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GTCATTTCCGGCTCGAATGCCCGGCAGCCGTGGCGGCTAGAGCGTTCCTCCCCA...TCA')ID: NM_014078.6
+Name: NM_014078
+Description: Homo sapiens mitochondrial ribosomal protein L13 (MRPL13), mRNA; nuclear gene for mitochondrial product
+Number of features: 14
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=02-JUN-2022
+/accessions=['NM_014078']
+/sequence_version=6
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Identification of the Upregulation of MRPL13 as a Novel Prognostic Marker Associated with Overall Survival Time and Immunotherapy Response in Breast Cancer', ...), Reference(title='Interactome Mapping Provides a Network of Neurodegenerative Disease Proteins and Uncovers Widespread Protein Aggregation in Affected Brains', ...), Reference(title='Lactate-mediated mitoribosomal defects impair mitochondrial oxidative phosphorylation and promote hepatoma cell invasiveness', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='DAPK-ZIPK-L13a axis constitutes a negative-feedback module regulating inflammatory gene expression', ...), Reference(title='Alterations in mitochondrial and apoptosis-regulating gene expression in photodynamic therapy-resistant variants of HT29 colon carcinoma cells', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC021744.2, CN362173.1 and
+AC107877.4.
+On May 17, 2019 this sequence version replaced NM_014078.5.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BG623051.1, BU155290.1 [ECO:0000332]'), ('RNAseq introns', 'mixed sample support SAMEA1965299, SAMEA1966682 [ECO:0006172]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000306185.8/ ENSP00000306548.3'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GAGTGACCCGGCGTGGCTACTAGGAGAAGGACGTACGGTCCTGCTAGTAGAGGA...ACT')ID: NM_032111.4
+Name: NM_032111
+Description: Homo sapiens mitochondrial ribosomal protein L14 (MRPL14), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 15
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_032111']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='The conserved interaction of C7orf30 with MRPL14 promotes biogenesis of the mitochondrial large ribosomal subunit and mitochondrial translation', ...), Reference(title='RsfA (YbeB) proteins are conserved ribosomal silencing factors', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Mammalian mitochondrial ribosomal proteins. N-terminal amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BM559405.1, AA887574.1 and
+AL109615.42.
+On Nov 23, 2018 this sequence version replaced NM_032111.3.
+Summary: This nuclear gene encodes a protein component of the 39S
+subunit of the mitochondrial ribosome. A pseudogene of this gene is
+found on chromosome 17. [provided by RefSeq, Jan 2016].
+Transcript Variant: This variant (1) encodes isoform a. Variants 1,
+2, and 3 encode the same isoform (a).
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR3476690.235171.1, SRR3476690.1155761.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000372014.5/ ENSP00000361084.3'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('GTCCGCCGGGCTGGGCCTGGCGCGCAGGCGCTAGGAAGAGGCCGCGTGGGGCGA...AAA')ID: NM_014175.4
+Name: NM_014175
+Description: Homo sapiens mitochondrial ribosomal protein L15 (MRPL15), mRNA; nuclear gene for mitochondrial product
+Number of features: 14
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=17-APR-2022
+/accessions=['NM_014175']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='MRPL15 is a novel prognostic biomarker and therapeutic target for epithelial ovarian cancer', ...), Reference(title="Methylation factor MRPL15 identified as a potential biological target in Alzheimer's disease", ...), Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Systematic subcellular localization of novel proteins identified by large-scale cDNA sequencing', ...), Reference(title='Mammalian mitochondrial ribosomal proteins (2). Amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC000891.1, DA504537.1 and
+BM510276.1.
+On May 17, 2019 this sequence version replaced NM_014175.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein that belongs to
+the EcoL15 ribosomal protein family. A pseudogene corresponding to
+this gene is found on chromosome 15q. [provided by RefSeq, Jul
+2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803616.12147.1, SRR1660807.85521.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000260102.9/ ENSP00000260102.4'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GAGCAGCTCAGGGCGCCCTTGAAAGTTCTTGGATCTGCGGGTTATGGCCGGTCC...AGT')ID: NM_017840.4
+Name: NM_017840
+Description: Homo sapiens mitochondrial ribosomal protein L16 (MRPL16), mRNA; nuclear gene for mitochondrial product
+Number of features: 9
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=01-JUN-2022
+/accessions=['NM_017840']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Variability of Gene Expression Identifies Transcriptional Regulators of Early Human Embryonic Development', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AA454132.1 and AB049642.1.
+On Nov 22, 2018 this sequence version replaced NM_017840.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AF183428.1, AK000491.1 [ECO:0000332]'), ('RNAseq introns', 'mixed sample support SAMEA1965299, SAMEA1966682 [ECO:0006172]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000300151.5/ ENSP00000300151.4'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GCCCCACTGAGCGGTGTCCTGAGCCGATTACAGCTAGGTAGTGGAGCGCCGCTG...GGA')ID: NM_022061.4
+Name: NM_022061
+Description: Homo sapiens mitochondrial ribosomal protein L17 (MRPL17), mRNA; nuclear gene for mitochondrial product
+Number of features: 13
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_022061']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The Chediak-Higashi protein interacts with SNARE complex and signal transduction proteins', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Gene expression profiling in the human hypothalamus-pituitary-adrenal axis and full-length cDNA cloning', ...), Reference(title='Mammalian mitochondrial ribosomal proteins (2). Amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from DB228622.1, AF164797.1,
+BF513148.1, AL572779.3, BM725086.1 and DA876701.1.
+On May 17, 2019 this sequence version replaced NM_022061.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803615.251574.1, SRR1803615.87288.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA2142670, SAMEA2142680 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000288937.7/ ENSP00000288937.6'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('AGTTTCCAGTTCCGGCCTCCAAGGGGCGGGCAGAAGTTGGAAACATGCGGCTGT...TCC')ID: NM_001318817.2
+Name: NM_001318817
+Description: Homo sapiens mitochondrial ribosomal protein L18 (MRPL18), transcript variant 2, mRNA; nuclear gene for mitochondrial product
+Number of features: 9
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=08-JUN-2022
+/accessions=['NM_001318817', 'XM_006715466']
+/sequence_version=2
+/keywords=['RefSeq']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Architecture of the human interactome defines protein communities and disease networks', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Biological significance of 5S rRNA import into human mitochondria: role of ribosomal protein MRP-L18', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Expressed sequence tag analysis of adult human lens for the NEIBank Project: over 2000 non-redundant transcripts, novel genes and splice variants', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BG548185.1 and BC001623.1.
+On Aug 13, 2020 this sequence version replaced NM_001318817.1.
+Summary: This nuclear gene encodes a protein component of the
+larger 39S subunit of mitochondrial ribosome. This protein may also
+aid in the import of nuclear-encoded 5S rRNA into mitochondria.
+Alternative splicing results in multiple transcript variants, most
+of which are not predicted to encode a protein. A pseudogene of
+this gene is found on chromosome 16. [provided by RefSeq, Jan
+2016].
+Transcript Variant: This variant (2) uses an alternate splice site
+in the 3' coding region, which results in a frameshift, compared to
+variant 1. The encoded isoform (2) has a shorter, distinct
+C-terminus compared to isoform 1.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BG548185.1, BU602913.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta')]))])
+Seq('GAGAGTTTGGGGATCTACAGCAGCCAAAGGCTTGTCCCTGACTTTATATGGCTG...TTA')ID: NM_014763.4
+Name: NM_014763
+Description: Homo sapiens mitochondrial ribosomal protein L19 (MRPL19), mRNA; nuclear gene for mitochondrial product
+Number of features: 17
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_014763']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title="Parkinson's disease-associated LRRK2-G2019S mutant acts through regulation of SERCA activity to control ER stress in astrocytes", ...), Reference(title='Beyond genes: A systematic review of environmental risk factors in specific reading disorder', ...), Reference(title='Comparative Protein Interaction Network Analysis Identifies Shared and Distinct Functions for the Human ROCO Proteins', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...), Reference(title='A visual intracellular classification strategy for uncharacterized human proteins', ...), Reference(title='Identification of mammalian mitochondrial ribosomal proteins (MRPs) by N-terminal sequencing of purified bovine MRPs and comparison to data bank sequences: the large subribosomal particle', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BQ432684.1 and AC005034.2.
+On Nov 22, 2018 this sequence version replaced NM_014763.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803617.281064.1, SRR1660803.139939.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1968189 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000393909.7/ ENSP00000377486.2'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GTAGTCTTGACGTGAGCTAGCTGGCATGGCGGCCTGCATTGCAGCGGGGCACTG...ATA')ID: NM_017971.4
+Name: NM_017971
+Description: Homo sapiens mitochondrial ribosomal protein L20 (MRPL20), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 9
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_017971', 'XM_001125910', 'XM_930786', 'XM_930809']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='The mRNA-bound proteome and its global occupancy profile on protein-coding transcripts', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='A human protein-protein interaction network: a resource for annotating the proteome', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BG700526.1, BC009515.1 and
+AW015403.1.
+On Nov 23, 2018 this sequence version replaced NM_017971.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. A pseudogene
+corresponding to this gene is found on chromosome 21q. Alternative
+splicing results in multiple transcript variants encoding different
+isoforms. [provided by RefSeq, Jan 2016].
+Transcript Variant: This variant (1) encodes the longer isoform
+(1).
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163655.386128.1, SRR1163658.400595.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA2147920, SAMEA2149178 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000344843.12/ ENSP00000341082.7'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('ATTTCCGACCCGGGCAAGATGGCAGCGGCGCTGCGCGTGCGTTGTTGAGTGTTC...TCA')ID: NM_181512.1
+Name: NM_181512
+Description: Homo sapiens mitochondrial ribosomal protein L21 (MRPL21), nuclear gene encoding mitochondrial protein, transcript variant 2, mRNA
+Number of features: 5
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=24-SEP-2005
+/accessions=['NM_181512']
+/sequence_version=1
+/keywords=['RefSeq']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Evolution of a protein-rich mitochondrial ribosome: implications for human genetic disease', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AK096756.1 and BM916618.1.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Multiple
+transcript variants encoding different isoforms were identified
+through sequence analysis.
+Transcript Variant: This variant (2) uses a different splice site
+in the coding region, which results in a frameshift and an early
+stop codon, compared to variant 4. The predicted protein (isoform
+b) is shorter than isoform d. The predicted ORF of this transcript
+has not been experimentally confirmed.
+COMPLETENESS: complete on the 3' end.
+Seq('TCCGTTTCCGGCCGAGGCTGCGGCCATGGCAGCATCTTCCCTGACGGTCACCTT...AAA')ID: NM_001014990.3
+Name: NM_001014990
+Description: Homo sapiens mitochondrial ribosomal protein L22 (MRPL22), transcript variant 2, mRNA; nuclear gene for mitochondrial product
+Number of features: 16
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=09-JUN-2022
+/accessions=['NM_001014990']
+/sequence_version=3
+/keywords=['RefSeq']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='The mRNA-bound proteome and its global occupancy profile on protein-coding transcripts', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Evolution of a protein-rich mitochondrial ribosome: implications for human genetic disease', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Mammalian mitochondrial ribosomal proteins. N-terminal amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BP372420.1, CR933679.1 and
+AC008410.6.
+On Aug 13, 2020 this sequence version replaced NM_001014990.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein that belongs to
+the L22 ribosomal protein family. A pseudogene corresponding to
+this gene is found on chromosome 4q. Two transcript variants
+encoding different isoforms have been found for this gene.
+[provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (2) lacks an alternate coding exon
+compared to variant 1. The resulting isoform (b) is shorter at the
+N-terminus compared to isoform a.
+Sequence Note: The RefSeq transcript and protein were derived from
+transcript and genomic sequence to make the sequence consistent
+with the reference genome assembly. The genomic coordinates used
+for the transcript record were based on alignments.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'CR933679.1, AK302784.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta')]))])
+Seq('GCTTGAACTCGGCGGCTTCCGTAGCGGGAGGGCGAAAGATGGCGGCGGCAGTAC...TTA')ID: NM_021134.4
+Name: NM_021134
+Description: Homo sapiens mitochondrial ribosomal protein L23 (MRPL23), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 11
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_021134']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='A possible mechanism behind autoimmune disorders discovered by genome-wide linkage and association analysis in celiac disease', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Evolution of a protein-rich mitochondrial ribosome: implications for human genetic disease', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...), Reference(title='A novel L23-related gene 40 kb downstream of the imprinted H19 gene is biallelically expressed in mid-fetal and adult human tissues', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from CN310387.1 and BC027710.2.
+On Nov 23, 2018 this sequence version replaced NM_021134.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. The gene is
+biallelically expressed, despite its location within a region of
+imprinted genes on chromosome 11. [provided by RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'CD248886.1, U26596.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000397298.8/ ENSP00000380466.3'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('CTCGCGGACCCCGGAAGCGCGCGTGGCCGCCATGGCGCGGAATGTGGTGTACCC...AAA')ID: NM_145729.3
+Name: NM_145729
+Description: Homo sapiens mitochondrial ribosomal protein L24 (MRPL24), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 13
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=02-JUN-2022
+/accessions=['NM_145729']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Mammalian mitochondrial ribosomal proteins (4). Amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BG706700.1, BC016700.1 and
+AA730909.1.
+On Nov 23, 2018 this sequence version replaced NM_145729.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein which is more
+than twice the size of its E.coli counterpart (EcoL24). Sequence
+analysis identified two transcript variants that encode the same
+protein. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) is the longer transcript and
+it encodes the same protein as variant 2.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AK222500.1, AK223066.1 [ECO:0000332]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000361531.6/ ENSP00000354525.2'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('ATGTGCTGAAAATCCGAAGTGCCGCGGAAAGTGGAGGTGAGGGCCGCCCGCCCT...GTC')ID: NM_016504.3
+Name: NM_016504
+Description: Homo sapiens mitochondrial ribosomal protein L27 (MRPL27), mRNA; nuclear gene for mitochondrial product
+Number of features: 9
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_016504']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='MRPL27 contributes to unfavorable overall survival and disease-free survival from cholangiocarcinoma patients', ...), Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Transcriptome analysis of human gastric cancer', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AF151084.1.
+On Nov 23, 2018 this sequence version replaced NM_016504.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AF151084.1, SRR1163658.334646.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA2153932, SAMN03267769 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000225969.9/ ENSP00000225969.4'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GAGTGATCGAAAGCATGGCGTCGGTGGTGTTGGCGCTGAGGACCCGGACAGCCG...ACA')ID: NM_006428.5
+Name: NM_006428
+Description: Homo sapiens mitochondrial ribosomal protein L28 (MRPL28), mRNA; nuclear gene for mitochondrial product
+Number of features: 12
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_006428']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Extensive disruption of protein interactions by genetic variants across the allele frequency spectrum in human populations', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Sequence, structure and pathology of the fully annotated terminal 2 Mb of the short arm of human chromosome 16', ...), Reference(title='The use of melanosomal proteins in the immunotherapy of melanoma', ...), Reference(title='Cloning of a new gene encoding an antigen recognized by melanoma-specific HLA-A24-restricted tumor-infiltrating lymphocytes', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from DB469296.1, BC000507.2,
+BI862386.1, BM967049.1, Z97634.26 and AC005202.1.
+This sequence is a reference standard in the RefSeqGene project.
+On May 17, 2019 this sequence version replaced NM_006428.4.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein, a part of which
+was originally isolated by its ability to recognize tyrosinase in
+an HLA-A24-restricted fashion. [provided by RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR7410570.571234.1, SRR1660803.318866.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA2153307, SAMEA2158188 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000199706.13/ ENSP00000199706.7'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('AGATCGGCTTCCGGTTCCGGTGGGCTCTGAACCCTGAAAGGCTCGCGATGCCTC...CCT')ID: NM_145212.4
+Name: NM_145212
+Description: Homo sapiens mitochondrial ribosomal protein L30 (MRPL30), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 20
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_145212']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Large-scale genome-wide association analysis of bipolar disorder identifies a new susceptibility locus near ODZ4', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Mammalian mitochondrial ribosomal proteins. N-terminal amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC022391.1, BU533068.1,
+AC092587.3, AC079447.4, BC013822.1 and DB353963.1.
+On Nov 22, 2018 this sequence version replaced NM_145212.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Alternative
+splicing results in multiple transcript variants. Pseudogenes
+corresponding to this gene are found on chromosomes 6p and 12p.
+Read-through transcription also exists between this gene and the
+neighboring upstream lipoyltransferase 1 (LIPT1) gene. [provided by
+RefSeq, Mar 2011].
+Transcript Variant: This variant (1) represents the longer
+transcript and encodes the supported protein.
+Sequence Note: This RefSeq record was created from transcript and
+genomic sequence data to make the sequence consistent with the
+reference genome assembly. The genomic coordinates used for the
+transcript record were based on transcript alignments.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1660809.188382.1, SRR1660803.206991.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000338148.8/ ENSP00000338057.3'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GTAGTTCTTCCTCTGCTCTGCTTCCCTTCGGAGGAAAATTTCAGGCTGAAGGTT...GTT')ID: NM_031903.3
+Name: NM_031903
+Description: Homo sapiens mitochondrial ribosomal protein L32 (MRPL32), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 10
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_031903']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Insights into RNA biology from an atlas of mammalian mRNA-binding proteins', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Missense mutation in the tubulin-specific chaperone E (Tbce) gene in the mouse mutant progressive motor neuronopathy, a model of human motoneuron disease', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AC010132.5.
+On Nov 23, 2018 this sequence version replaced NM_031903.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein that belongs to
+the L32 ribosomal protein family. A pseudogene corresponding to
+this gene is found on chromosome Xp. [provided by RefSeq, Jul
+2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163657.362047.1, AB049649.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000223324.3/ ENSP00000223324.2'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('CAGCAGGGAAAATGGCGCTGGCCATGCTGGTCTTGGTGGTTTCGCCGTGGTCTG...AAA')ID: NM_004891.4
+Name: NM_004891
+Description: Homo sapiens mitochondrial ribosomal protein L33 (MRPL33), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 9
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_004891']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Isoforms S and L of MRPL33 from alternative splicing have isoformspecific roles in the chemoresponse to epirubicin in gastric cancer cells via the PI3K/AKT signaling pathway', ...), Reference(title='MRPL33 and its splicing regulator hnRNPK are required for mitochondria function and implicated in tumor progression', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='A genome-wide approach accounting for body mass index identifies genetic variants influencing fasting glycemic traits and insulin resistance', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC090047.1, BC020834.1 and
+AA836397.1.
+On Nov 24, 2018 this sequence version replaced NM_004891.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Alternatively
+spliced transcript variants encoding different isoforms have been
+described. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) encodes the longer isoform
+(a).
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163657.571615.1, BI597621.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000296102.8/ ENSP00000296102.3'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('AGTTGTTGTTGGTTGGGGGCCTTTTGGCCGGTGACGGAGACTGCCCAGGTGTGG...ATA')ID: NM_023937.4
+Name: NM_023937
+Description: Homo sapiens mitochondrial ribosomal protein L34 (MRPL34), transcript variant 3, mRNA; nuclear gene for mitochondrial product
+Number of features: 10
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_023937']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...), Reference(title='Identification of mammalian mitochondrial ribosomal proteins (MRPs) by N-terminal sequencing of purified bovine MRPs and comparison to data bank sequences: the large subribosomal particle', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AC010463.6.
+On Jun 2, 2019 this sequence version replaced NM_023937.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR7346977.8579.1, BC000071.2 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000252602.2/ ENSP00000252602.1'), ('RefSeq Select criteria', 'based on manual assertion, conservation, expression, longest protein')]))])
+Seq('ACTGCGGGACCCACTGCGGATATGGCTGTCTTGGCTGGATCCCTGTTGGGCCCC...TGC')ID: NM_016622.4
+Name: NM_016622
+Description: Homo sapiens mitochondrial ribosomal protein L35 (MRPL35), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 14
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_016622']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='MRPL35 Is Up-Regulated in Colorectal Cancer and Regulates Colorectal Cancer Cell Growth and Apoptosis', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='[IMAGE: molecular integration of the analysis of the human genome and its expression]', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from DA443416.1, BQ421154.1,
+DB245340.1, BQ879834.1, BG108475.1, AL832982.1, BU195549.1,
+F11007.1, H11039.1 and AC009309.4.
+On Nov 23, 2018 this sequence version replaced NM_016622.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Sequence
+analysis identified three transcript variants. Pseudogenes
+corresponding to this gene are found on chromosomes 6p, 10q, and
+Xp. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) is the predominant transcript
+and encodes isoform a.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803611.117495.1, SRR1803617.279807.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000337109.9/ ENSP00000338389.4'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('AAACCCAAAGCGGCCGCCGTAGGCGAAGGTGAAGATGGCTGCCTCTGCCTTTGC...TCA')ID: NM_032479.4
+Name: NM_032479
+Description: Homo sapiens mitochondrial ribosomal protein L36 (MRPL36), mRNA; nuclear gene for mitochondrial product
+Number of features: 7
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_032479']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Association of LETM1 and MRPL36 contributes to the regulation of mitochondrial ATP production and necrotic cell death', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...), Reference(title='Creation of genome-wide protein expression libraries using random activation of gene expression', ...), Reference(title='Gene expression profiling in the human hypothalamus-pituitary-adrenal axis and full-length cDNA cloning', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC104652.1 and BG185418.1.
+On Nov 23, 2018 this sequence version replaced NM_032479.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. A pseudogene
+corresponding to this gene is found on chromosome 2p. [provided by
+RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163658.569590.1, SRR5189661.82653.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1966682, SAMEA2153427 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000505059.7/ ENSP00000423152.1'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('AGTGCGCAGACGCAGGGGTCGGCGCCGGGTGAGAGCGTGCGGCCGGATTCACCA...ATA')ID: NM_016491.4
+Name: NM_016491
+Description: Homo sapiens mitochondrial ribosomal protein L37 (MRPL37), transcript variant 2, mRNA; nuclear gene for mitochondrial product
+Number of features: 13
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=09-JUN-2022
+/accessions=['NM_016491']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Polymorphisms in PARK2 and MRPL37 are associated with higher risk of recurrent venous thromboembolism in a sex-specific manner', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='A genome-wide association study in the genetic analysis of idiopathic thrombophilia project suggests sex-specific regulation of mitochondrial DNA levels', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='[The structure and specific features of the cDNA expression of the human gene MRPL37]', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Identification of mammalian mitochondrial ribosomal proteins (MRPs) by N-terminal sequencing of purified bovine MRPs and comparison to data bank sequences: the large subribosomal particle', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AK024572.1 and AI245012.1.
+On Feb 27, 2020 this sequence version replaced NM_016491.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+Transcript Variant: This variant (2) differs in the 3' UTR and
+coding sequence compared to variant 1. The resulting isoform (2)
+has a shorter and distinct C-terminus compared to isoform 1.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AK024572.1, AK026171.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000360840.9/ ENSP00000354086.5'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('CTCATTCGTTCCCAGCAGGCCCTGCGCGCGGCAACATGGCGGGGTCCAGGTGGA...GAA')ID: NM_032478.4
+Name: NM_032478
+Description: Homo sapiens mitochondrial ribosomal protein L38 (MRPL38), mRNA; nuclear gene for mitochondrial product
+Number of features: 16
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=07-JUN-2022
+/accessions=['NM_032478']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='A Multi-Trait Approach Identified Genetic Variants Including a Rare Mutation in RGS3 with Impact on Abnormalities of Cardiac Structure/Function', ...), Reference(title='Histone Interaction Landscapes Visualized by Crosslinking Mass Spectrometry in Intact Cell Nuclei', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Architecture of the human interactome defines protein communities and disease networks', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AC087289.9.
+On Aug 5, 2019 this sequence version replaced NM_032478.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+Sequence Note: The RefSeq transcript and protein were derived from
+genomic sequence to make the sequence consistent with the reference
+genome assembly. The genomic coordinates used for the transcript
+record were based on alignments.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BC013311.2, AK313283.1 [ECO:0000332]'), ('RNAseq introns', 'mixed sample support SAMEA1965299, SAMEA1966682 [ECO:0006172]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000309352.4/ ENSP00000308275.4'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GGAGGGAAGATGGCGGCGCCCTGGTGGCGAGCCGCGCTGTGCGAGTGTCGGAGA...GGG')ID: NM_017446.4
+Name: NM_017446
+Description: Homo sapiens mitochondrial ribosomal protein L39 (MRPL39), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 16
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=07-JUN-2022
+/accessions=['NM_017446']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Insights into RNA biology from an atlas of mammalian mRNA-binding proteins', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Evolution of a protein-rich mitochondrial ribosome: implications for human genetic disease', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Heart-specific splice-variant of a human mitochondrial ribosomal protein (mRNA processing; tissue specific splicing)', ...), Reference(title='Mammalian mitochondrial ribosomal proteins (2). Amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AP000223.1.
+On Aug 6, 2019 this sequence version replaced NM_017446.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Two transcript
+variants encoding distinct isoforms have been described. A
+pseudogene corresponding to this gene is found on chromosome 5q.
+[provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) encodes the predominant
+isoform (a).
+Sequence Note: The RefSeq transcript and protein were derived from
+genomic sequence to make the sequence consistent with the reference
+genome assembly. The genomic coordinates used for the transcript
+record were based on alignments.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BC107719.1, AK225878.1 [ECO:0000332]'), ('RNAseq introns', 'mixed sample support SAMEA1965299, SAMEA1966682 [ECO:0006172]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000352957.9/ ENSP00000284967.7'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('GCTGCTATGGAGGCGCTGGCCATGGGTTCCCGGGCGCTGCGGCTCTGGCTGGTC...TAA')ID: NM_003776.4
+Name: NM_003776
+Description: Homo sapiens mitochondrial ribosomal protein L40 (MRPL40), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 12
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=08-JUN-2022
+/accessions=['NM_003776']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Mitochondrial deficits in human iPSC-derived neurons from patients with 22q11.2 deletion syndrome and schizophrenia', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Mitochondrial Citrate Transporter-dependent Metabolic Signature in the 22q11.2 Deletion Syndrome', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Identification of URIM, a novel gene up-regulated in metastasis', ...), Reference(title='Mammalian mitochondrial ribosomal proteins. N-terminal amino acid sequencing, characterization, and identification of corresponding gene sequences', ...), Reference(title='Isolation and characterization of a human gene containing a nuclear localization signal from the critical region for velo-cardio-facial syndrome on 22q11', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC009707.1.
+On Aug 11, 2020 this sequence version replaced NM_003776.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Deletions in
+this gene may contribute to the etiology of velo-cardio-facial
+syndrome and DiGeorge syndrome. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) represents the longest
+transcript and encodes the longer isoform (1).
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AJ295637.1, BC009707.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000333130.4/ ENSP00000333401.3'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('GAGGGTAGCCATGACGGCCTCCGTGCTGCGAAGTATCTCGCTAGCCCTGCGCCC...AAA')ID: NM_032477.3
+Name: NM_032477
+Description: Homo sapiens mitochondrial ribosomal protein L41 (MRPL41), mRNA; nuclear gene for mitochondrial product
+Number of features: 7
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_032477']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Nuclear-encoded mitochondrial MTO1 and MRPL41 are regulated in an opposite epigenetic mode based on estrogen receptor status in breast cancer', ...), Reference(title='DNA sequence and analysis of human chromosome 9', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Mammalian mitochondrial ribosomal proteins. N-terminal amino acid sequencing, characterization, and identification of corresponding gene sequences', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AI091177.1 and BC040035.1.
+On Nov 23, 2018 this sequence version replaced NM_032477.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein that belongs to
+the YmL27 ribosomal protein family. [provided by RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'DR422077.1, SRR1163655.231333.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1968189, SAMEA1968540 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000371443.6/ ENSP00000360498.5'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GCTCTTGCTGCGACGCAGCGGTCGGAAGCGGAGCAAGGTCGAGGCCGGGTTGGC...CTA')ID: NM_014050.4
+Name: NM_014050
+Description: Homo sapiens mitochondrial ribosomal protein L42 (MRPL42), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 22
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_014050']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Knockdown of MRPL42 suppresses glioma cell proliferation by inducing cell cycle arrest and apoptosis', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='[Comparative analysis of the role of CD4(+) and CD8(+) T cells in severe asthma development]', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='The small subunit of the mammalian mitochondrial ribosome. Identification of the full complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AC025260.29.
+On May 17, 2019 this sequence version replaced NM_014050.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a protein identified as belonging to
+both the 28S and the 39S subunits. Alternative splicing results in
+multiple transcript variants. Pseudogenes corresponding to this
+gene are found on chromosomes 4q, 6p, 6q, 7p, and 15q. [provided by
+RefSeq, May 2011].
+Sequence Note: The RefSeq transcript and protein were derived from
+genomic sequence to make the sequence consistent with the reference
+genome assembly. The genomic coordinates used for the transcript
+record were based on alignments.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803616.48438.1, SRR1803615.266571.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000549982.6/ ENSP00000449884.1'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('ATTGAAACAAGATGGCGGGTTCGTGGTGAGAAGCCGTCAAGGAGTAGAAATTGG...CTA')ID: NM_001308396.2
+Name: NM_001308396
+Description: Homo sapiens mitochondrial ribosomal protein L43 (MRPL43), transcript variant 5, mRNA; nuclear gene for mitochondrial product
+Number of features: 9
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=24-JUL-2022
+/accessions=['NM_001308396', 'XM_005270230']
+/sequence_version=2
+/keywords=['RefSeq']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Network-based meta-analysis and the candidate gene association studies reveal novel ethnicity-specific variants in MFSD3 and MRPL43 associated with dementia with Lewy bodies', ...), Reference(title='Antagonistic regulatory effects of a single cis-acting expression quantitative trait locus between transcription and translation of the MRPL43 gene', ...), Reference(title='miR-608 rs4919510 Polymorphism May Affect Susceptibility to Colorectal Cancer by Upregulating MRPL43 Expression', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='A scan of chromosome 10 identifies a novel locus showing strong association with late-onset Alzheimer disease', ...), Reference(title='Twinkle helicase is essential for mtDNA maintenance and regulates mtDNA copy number', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Structural compensation for the deficit of rRNA with proteins in the mammalian mitochondrial ribosome. Systematic analysis of protein components of the large ribosomal subunit from mammalian mitochondria', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BU597385.1 and BC052639.1.
+On Jun 2, 2019 this sequence version replaced NM_001308396.1.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. This gene and
+the gene for a semaphorin class 4 protein (SEMA4G) overlap at map
+location 10q24.31 and are transcribed in opposite directions.
+Sequence analysis identified multiple transcript variants encoding
+at least four different protein isoforms. [provided by RefSeq, Jul
+2008].
+Transcript Variant: This variant (5) uses an alternate splice site
+in the 3' coding region, compared to variant 1. The encoded isoform
+(e) has a longer and distinct C-terminus, compared to isoform a.
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BC052639.1, SRR1163655.683934.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA2146411 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta')]))])
+Seq('AGTCCCGCCCCCCTCTCCTCGCTGCTTAGGCTCCGCGGCCTCCAAGCTGTAGCT...TCA')ID: NM_022915.5
+Name: NM_022915
+Description: Homo sapiens mitochondrial ribosomal protein L44 (MRPL44), mRNA; nuclear gene for mitochondrial product
+Number of features: 11
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=17-AUG-2022
+/accessions=['NM_022915']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Pathogenic variants in MRPL44 cause infantile cardiomyopathy due to a mitochondrial translation defect', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='A metabolic phenotype based on mitochondrial ribosomal protein expression as a predictor of lymph node metastasis in papillary thyroid carcinoma', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='A germline-specific class of small RNAs binds mammalian Piwi proteins', ...), Reference(title='Identification of intrahepatic cholangiocarcinoma related genes by comparison with normal liver tissues using expressed sequence tags', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AC073641.3.
+On Aug 31, 2019 this sequence version replaced NM_022915.4.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AK022763.1, AK024052.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000258383.4/ ENSP00000258383.3'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('CTCTCGTGCAATGGCGTCCGGGCTGGTAAGATTGCTGCAGCAGGGACATCGCTG...TAA')ID: NM_032351.6
+Name: NM_032351
+Description: Homo sapiens mitochondrial ribosomal protein L45 (MRPL45), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 14
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_032351', 'XM_936540']
+/sequence_version=6
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='GWAS meta-analysis and replication identifies three new susceptibility loci for ovarian cancer', ...), Reference(title='The mRNA-bound proteome and its global occupancy profile on protein-coding transcripts', ...), Reference(title='Insights into RNA biology from an atlas of mammalian mRNA-binding proteins', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AK293605.1 and BC006235.2.
+On Nov 24, 2018 this sequence version replaced NM_032351.5.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Alternative
+splicing results in multiple transcript variants. Pseudogenes
+corresponding to this gene are found on chromosomes 2p and 17q.
+[provided by RefSeq, May 2013].
+Transcript Variant: This variant (1) represents the longer
+transcript and encodes the longer isoform (1).
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AK172741.1, SRR5189661.101169.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'PMID: 11551941; reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000613675.5/ ENSP00000484903.1'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('CCTTTGCGGGAACAAGATGGCAGCCCCCATACCTCAAGGGTTCTCTTGTTTATC...TTA')ID: NM_022163.4
+Name: NM_022163
+Description: Homo sapiens mitochondrial ribosomal protein L46 (MRPL46), mRNA; nuclear gene for mitochondrial product
+Number of features: 10
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=01-JUN-2022
+/accessions=['NM_022163']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='Cloning, mapping and expression analysis of C15orf4, a novel human gene with homology to the yeast mitochondrial ribosomal protein Ym130 gene', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC017883.1 and AF210056.1.
+This sequence is a reference standard in the RefSeqGene project.
+On Nov 22, 2018 this sequence version replaced NM_022163.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'AF210056.1, BC017883.1 [ECO:0000332]'), ('RNAseq introns', 'mixed sample support SAMEA2142670, SAMEA2144835 [ECO:0006172]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000312475.5/ ENSP00000312311.4'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GAGAACGAAAGATGGCGGCGCCCGTAAGGCGGACGCTGTTAGGGGTGGCGGGGG...CTG')ID: NM_020409.3
+Name: NM_020409
+Description: Homo sapiens mitochondrial ribosomal protein L47 (MRPL47), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 19
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_020409']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Histone Interaction Landscapes Visualized by Crosslinking Mass Spectrometry in Intact Cell Nuclei', ...), Reference(title='An AP-MS- and BioID-compatible MAC-tag enables comprehensive mapping of protein interactions and subcellular localizations', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Evolution of a protein-rich mitochondrial ribosome: implications for human genetic disease', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BC021575.1, AY212270.1,
+BC032522.1 and AC090425.15.
+On May 17, 2019 this sequence version replaced NM_020409.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. This gene is
+immediately adjacent to the gene for BAF complex 53 kDa subunit
+protein a (BAF53a), in a tail-to-tail orientation. Two transcript
+variants encoding different protein isoforms have been identified.
+[provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) is the predominant transcript
+and it encodes isoform a.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR3476690.368775.1, SRR3476690.218647.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1968540 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000476781.6/ ENSP00000417602.1'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('AGTTATGCGAAAACATGGCTGCGGCCGGTTTGGCCCTTCTTTGTAGGAGAGTTT...AAA')ID: NM_016055.6
+Name: NM_016055
+Description: Homo sapiens mitochondrial ribosomal protein L48 (MRPL48), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 14
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_016055']
+/sequence_version=6
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Novel genetic loci identified for the pathophysiology of childhood obesity in the Hispanic population', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Properties of the C-terminal tail of human mitochondrial inner membrane protein Oxa1L and its interactions with mammalian mitochondrial ribosomes', ...), Reference(title='Candidate diagnostic markers and tumor suppressor genes for adrenocortical carcinoma by expression profile of genes on chromosome 11q13', ...), Reference(title='Transcriptome analysis of human gastric cancer', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from DA549653.1, BC009764.1,
+CF529680.1 and AP002770.3.
+On May 17, 2019 this sequence version replaced NM_016055.5.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. A pseudogene
+corresponding to this gene is found on chromosome 6p. Several
+transcript variants, some protein-coding and some non-protein
+coding, have been found for this gene. [provided by RefSeq, Jan
+2016].
+Transcript Variant: This variant (1) lacks an alternate in-frame
+exon compared to variant 2. The resulting isoform (1) has the same
+N- and C-termini but is shorter compared to isoform 2.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803612.91577.1, SRR1660803.139938.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000310614.12/ ENSP00000308717.7'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('GTCAAGGCCGTTCCTTCAGTGTTTTCAGACGCCCTGGGAACGCGGCTGCAGGGT...TTG')ID: NM_004927.4
+Name: NM_004927
+Description: Homo sapiens mitochondrial ribosomal protein L49 (MRPL49), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 13
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_004927']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Interactome Mapping Provides a Network of Neurodegenerative Disease Proteins and Uncovers Widespread Protein Aggregation in Affected Brains', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Properties of the C-terminal tail of human mitochondrial inner membrane protein Oxa1L and its interactions with mammalian mitochondrial ribosomes', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='Isolation, cDNA, and genomic structure of a conserved gene (NOF) at chromosome 11q13 next to FAU and oriented in the opposite transcriptional orientation', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BG250495.1, BC004378.1 and
+AP003068.3.
+On May 17, 2019 this sequence version replaced NM_004927.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. Pseudogenes corresponding to this gene are found on
+chromosomes 5q and 8p. [provided by RefSeq, May 2011].
+Transcript Variant: This variant (1) is the predominant transcript
+and it encodes the functional protein.
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1803612.160957.1, SRR1660805.13441.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000279242.7/ ENSP00000279242.2'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('ACAGAAGGCTGGCGTAGCAGGTAAAGATGGCAGCTACCATGTTCCGGGCTACGC...GTC')ID: NM_019051.3
+Name: NM_019051
+Description: Homo sapiens mitochondrial ribosomal protein L50 (MRPL50), mRNA; nuclear gene for mitochondrial product
+Number of features: 11
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=02-JUN-2022
+/accessions=['NM_019051']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='DNA sequence and analysis of human chromosome 9', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from CN388719.1, AK000500.1,
+BC032008.1 and AL353621.19.
+On Nov 22, 2018 this sequence version replaced NM_019051.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a putative 39S subunit protein and
+belongs to the L47P ribosomal protein family. Pseudogenes
+corresponding to this gene are found on chromosomes 2p, 2q, 5p, and
+10q. [provided by RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR11853567.30601.1, SRR11853566.28103.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1968540, SAMEA2145245 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000374865.5/ ENSP00000363999.4'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('GCTCAGGCCCGTGGATCTCATCGAAGATGGCGGCGCGATCTGTGTCGGGCATTA...TTC')ID: NM_016497.4
+Name: NM_016497
+Description: Homo sapiens mitochondrial ribosomal protein L51 (MRPL51), mRNA; nuclear gene for mitochondrial product
+Number of features: 12
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_016497']
+/sequence_version=4
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Properties of the C-terminal tail of human mitochondrial inner membrane protein Oxa1L and its interactions with mammalian mitochondrial ribosomes', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Proteomic analysis of the mammalian mitochondrial ribosome. Identification of protein components in the 28 S small subunit', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AF212248.1, BC014329.1 and
+AC006064.10.
+On Nov 23, 2018 this sequence version replaced NM_016497.3.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Pseudogenes
+corresponding to this gene are found on chromosomes 4p and 21q.
+[provided by RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR1163657.458397.1, SRR1660805.184931.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000229238.5/ ENSP00000229238.3'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('ACAGCTGCCTGGGTAAGGCCCAAGATGGCTGTCTTCGCCTTAGTACTCGTGTGA...ATA')ID: NM_180982.3
+Name: NM_180982
+Description: Homo sapiens mitochondrial ribosomal protein L52 (MRPL52), transcript variant 3, mRNA; nuclear gene for mitochondrial product
+Number of features: 13
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_180982']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='HIF-1-induced mitochondrial ribosome protein L52: a mechanism for breast cancer cellular adaptation and metastatic initiation in response to hypoxia', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Transcriptome analysis of human gastric cancer', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Evolution of a protein-rich mitochondrial ribosome: implications for human genetic disease', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BQ082981.1, BX248749.1 and
+AA282747.1.
+On Nov 24, 2018 this sequence version replaced NM_180982.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein which has no
+bacterial homolog. Multiple transcript variants encoding different
+protein isoforms were identified through sequence analysis.
+[provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (3) uses an alternate in-frame
+splice site in the 5' coding region, compared to variant 1,
+resulting in a shorter protein (isoform c) compared to isoform a.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR3476690.161862.1, ERR279865.2896.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000397496.7/ ENSP00000380633.3'), ('RefSeq Select criteria', 'based on manual assertion, conservation')]))])
+Seq('GGCTACCCCGGCTACTCCTGCTCAGCATGGCTGCTTTAGGGACTGTTCTCTTCA...AGA')ID: NM_053050.5
+Name: NM_053050
+Description: Homo sapiens mitochondrial ribosomal protein L53 (MRPL53), mRNA; nuclear gene for mitochondrial product
+Number of features: 8
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_053050']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='MRPL53, a New Candidate Gene for Orofacial Clefting, Identified Using an eQTL Approach', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='Creation of genome-wide protein expression libraries using random activation of gene expression', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from BQ014848.1 and BC012163.1.
+On Nov 23, 2018 this sequence version replaced NM_053050.4.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. A pseudogene
+corresponding to this gene is found on chromosome 1p. [provided by
+RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BP205925.1, ERR279839.1681.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000258105.8/ ENSP00000258105.7'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('CTTCCGGGGCGGAGGTCACCATGGCAGCTGCCTTGGCTCGGCTTGGTCTGCGGC...CAA')ID: NM_172251.3
+Name: NM_172251
+Description: Homo sapiens mitochondrial ribosomal protein L54 (MRPL54), mRNA; nuclear gene for mitochondrial product
+Number of features: 8
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=17-APR-2022
+/accessions=['NM_172251']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Expression analysis of mammalian mitochondrial ribosomal protein genes', ...), Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Ribosome. The structure of the human mitochondrial ribosome', ...), Reference(title='A germline-specific class of small RNAs binds mammalian Piwi proteins', ...), Reference(title='Transcriptome analysis of human gastric cancer', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...), Reference(title='Initial assessment of human gene diversity and expression patterns based upon 83 million nucleotides of cDNA sequence', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AA340000.1 and BQ061807.1.
+On Nov 23, 2018 this sequence version replaced NM_172251.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. [provided by
+RefSeq, Jul 2008].
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BC065273.1, BQ061807.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000330133.5/ ENSP00000331849.3'), ('RefSeq Select criteria', 'based on single protein-coding transcript')]))])
+Seq('AAGCTGCCCGCAATACGTCATGGCGACCAAACGCCTTTTCGGGGCTACCCGGAC...CTA')ID: NM_181454.3
+Name: NM_181454
+Description: Homo sapiens mitochondrial ribosomal protein L55 (MRPL55), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 14
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=09-JUN-2022
+/accessions=['NM_181454']
+/sequence_version=3
+/keywords=['RefSeq']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title="Distinct class of putative 'non-conserved' promoters in humans: comparative studies of alternative promoters of human and mouse genes", ...), Reference(title='The secreted protein discovery initiative (SPDI), a large-scale effort to identify novel human secreted and transmembrane proteins: a bioinformatics assessment', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='Evolution of a protein-rich mitochondrial ribosome: implications for human genetic disease', ...), Reference(title='The large subunit of the mammalian mitochondrial ribosome. Analysis of the complement of ribosomal proteins present', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from CV572808.1, BM706934.1,
+BF945771.1 and BQ012917.1.
+On Aug 13, 2020 this sequence version replaced NM_181454.2.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a 39S subunit protein. Multiple
+transcript variants encoding two different isoforms were identified
+through sequence analysis. [provided by RefSeq, Jul 2008].
+Transcript Variant: This variant (1) uses a different splice site
+in one segment and contains an additional segment in the 5' UTR
+when compared to variant 5. Variants 1, 2, 3, 5, 6, 7, and 8 encode
+the same isoform (a).
+COMPLETENESS: complete on the 3' end.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'BE735760.1, BG681771.1 [ECO:0000332]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta')]))])
+Seq('AGTGACGTCGTGGGCTGCAGCGCAGCAGCACCCAACGCATCTAGCAGGAAAGGA...CCA')ID: NM_024026.5
+Name: NM_024026
+Description: Homo sapiens mitochondrial ribosomal protein L57 (MRPL57), mRNA; nuclear gene for mitochondrial product
+Number of features: 11
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=16-APR-2022
+/accessions=['NM_024026']
+/sequence_version=5
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='A reference map of the human binary protein interactome', ...), Reference(title='Structures of the human mitochondrial ribosome in native states of assembly', ...), Reference(title='Structure and Function of the Mitochondrial Ribosome', ...), Reference(title='Structure of the large ribosomal subunit from human mitochondria', ...), Reference(title='Identification and characterization of CHCHD1, AURKAIP1, and CRIF1 as new members of the mammalian mitochondrial ribosome', ...), Reference(title='Genetic variants in nuclear-encoded mitochondrial genes influence AIDS progression', ...), Reference(title='Identification and characterization of over 100 mitochondrial ribosomal protein pseudogenes in the human genome', ...), Reference(title='The human mitochondrial ribosomal protein genes: mapping of 54 genes to the chromosomes and implications for human disorders', ...), Reference(title='Proteomic analysis of the mammalian mitochondrial ribosome. Identification of protein components in the 28 S small subunit', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from AL158032.32.
+On Nov 23, 2018 this sequence version replaced NM_024026.4.
+Summary: Mammalian mitochondrial ribosomal proteins are encoded by
+nuclear genes and help in protein synthesis within the
+mitochondrion. Mitochondrial ribosomes (mitoribosomes) consist of a
+small 28S subunit and a large 39S subunit. They have an estimated
+75% protein to rRNA composition compared to prokaryotic ribosomes,
+where this ratio is reversed. Another difference between mammalian
+mitoribosomes and prokaryotic ribosomes is that the latter contain
+a 5S rRNA. Among different species, the proteins comprising the
+mitoribosome differ greatly in sequence, and sometimes in
+biochemical properties, which prevents easy recognition by sequence
+homology. This gene encodes a protein which belongs to an
+undetermined ribosomal subunit and which seems to be specific to
+animal mitoribosomes. Pseudogenes corresponding to this gene are
+found on chromosomes 1p, 1q, 3p, 5q, 8q, 14q, and Y. [provided by
+RefSeq, Jul 2008].
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR3476690.663564.1, SRR1660807.250558.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000309594.5/ ENSP00000310726.4'), ('RefSeq Select criteria', 'based on conservation, expression, longest protein')]))])
+Seq('GCTTACGCCACGGCGTCTGCTGGCGGCCGCGGAGACGCAGAGTCTTGAGCAGCG...AAA')ID: NM_001545.3
+Name: NM_001545
+Description: Homo sapiens mitochondrial ribosomal protein L58 (MRPL58), transcript variant 1, mRNA; nuclear gene for mitochondrial product
+Number of features: 13
+/molecule_type=mRNA
+/topology=linear
+/data_file_division=PRI
+/date=31-MAY-2021
+/accessions=['NM_001545']
+/sequence_version=3
+/keywords=['RefSeq', 'MANE Select']
+/source=Homo sapiens (human)
+/organism=Homo sapiens
+/taxonomy=['Eukaryota', 'Metazoa', 'Chordata', 'Craniata', 'Vertebrata', 'Euteleostomi', 'Mammalia', 'Eutheria', 'Euarchontoglires', 'Primates', 'Haplorrhini', 'Catarrhini', 'Hominidae', 'Homo']
+/references=[Reference(title='ICT1 Promotes Osteosarcoma Cell Proliferation and Inhibits Apoptosis via STAT3/BCL-2 Pathway', ...), Reference(title='MiR-1301-3p inhibits human breast cancer cell proliferation by regulating cell cycle progression and apoptosis through directly targeting ICT1', ...), Reference(title='Knockdown of immature colon carcinoma transcript 1 induces suppression of proliferation, S-phase arrest and apoptosis in leukemia cells', ...), Reference(title='Immature colon carcinoma transcript-1 promotes cell growth of hepatocellular carcinoma via facilitating cell cycle progression and apoptosis resistance', ...), Reference(title='Immature colon carcinoma transcript-1 promotes proliferation of gastric cancer cells', ...), Reference(title='Solution structure of the catalytic domain of the mitochondrial protein ICT1 that is essential for cell vitality', ...), Reference(title='Mutations in C12orf65 in patients with encephalomyopathy and a mitochondrial translation defect', ...), Reference(title='A functional peptidyl-tRNA hydrolase, ICT1, has been recruited into the human mitochondrial ribosome', ...), Reference(title='Identification of mRNAs that show modulated expression during colon carcinoma cell differentiation', ...), Reference(title='A novel T-cell differentiation antigen expressed in immature human thymocytes and neuroglial cells', ...)]
+/comment=REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+reference sequence was derived from DB456649.1 and BC015335.1.
+On Nov 23, 2018 this sequence version replaced NM_001545.2.
+Summary: The protein encoded by this gene is a peptidyl-tRNA
+hydrolase and a vital component of the large mitochondrial
+ribosome. The encoded protein serves as a ribosome release factor
+for this ribosome, which translates mitochondrial genes. This
+protein may be responsible for degrading prematurely-terminated
+polypeptides and for reusing stalled ribosomes. Two transcript
+variants encoding different isoforms have been found for this gene.
+[provided by RefSeq, Dec 2014].
+Transcript Variant: This variant (1) represents the longer
+transcript and encodes the predominant isoform (1).
+Publication Note:  This RefSeq record includes a subset of the
+publications that are available for this gene. Please see the Gene
+record to access additional publications.
+COMPLETENESS: full length.
+/structured_comment=OrderedDict([('Evidence-Data', OrderedDict([('Transcript exon combination', 'SRR5189664.125951.1, SRR1163655.667687.1 [ECO:0000332]'), ('RNAseq introns', 'single sample supports all introns SAMEA1965299, SAMEA1966682 [ECO:0000348]')])), ('RefSeq-Attributes', OrderedDict([('gene product(s) localized to mito.', 'reported by MitoCarta'), ('MANE Ensembl match', 'ENST00000301585.10/ ENSP00000301585.5'), ('RefSeq Select criteria', 'based on conservation, expression')]))])
+Seq('AGTCGCAAGACCTGAGCATGGCGGCCACCAGGTGCCTGCGCTGGGGCCTGAGCC...TCA')
