@@ -16,13 +16,10 @@
 ### Bio, Pandas, re, matplotlib.pyplot
 
 ## Modulos improtados 
-###Phylo, SeqIO, AlignIO, Entrez, GenBank  
+### Phylo, SeqIO, AlignIO, Entrez, GenBank  
 
 ## Informacion data 
-### En el caso de la pregunta 2 se obtuvieron las secuencias en formato gb y la database de referencia fue obtenidad HGNC y 
-### descargadad de NCBI 
-### En la pregunta 3 y 4 se realizo un histograma y arbol filogenetico respectivamente. Ambas casos las secuencias de analisis 
-### fueron las 48 secuencias obtenidas de la pregunta 2 
+### En el caso de la pregunta 2 se obtuvieron las secuencias en formato gb y la database de referencia fue obtenidad HGNC y descargadas del NCBI 
+### En la pregunta 3 y 4 se realizo un histograma y arbol filogenetico respectivamente. Ambas casos las secuencias de analisis fueron las 48 secuencias obtenidas de la pregunta 2 
 
-### Nota: la informacion de las secuencias fue en base al tema general Large subunit mitochondrial y el alineamiento fue 
-###       realizado en el software ClustalW
+### Nota: la informacion de las secuencias fue en base al tema general Large subunit mitochondrial y el alineamiento fue realizado en el software ClustalW
